@@ -1,0 +1,29 @@
+{
+  "name": "alice",
+  "version": "1.0.0",
+  "authors": [
+    "Joe Robles <joe.robles.pdj@gmail.com>"
+  ],
+  "description": "10FastFingers clon",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "typing",
+    "game"
+  ],
+  "license": "MIT",
+  "homepage": "http://alice.colldev.com/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "latest",
+    "bootstrap": "latest",
+    "mustache": "latest"
+  }
+}
