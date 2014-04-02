@@ -1,0 +1,5 @@
+alice_main:
+    resource: "@AliceMainBundle/Controller/"
+    type:     annotation
+    prefix:   /
+

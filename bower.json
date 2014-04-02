@@ -24,6 +24,7 @@
   "dependencies": {
     "jquery": "latest",
     "bootstrap": "latest",
-    "mustache": "latest"
+    "mustache": "latest",
+    "socket.io-client": "latest"
   }
 }
